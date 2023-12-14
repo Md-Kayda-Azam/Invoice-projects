@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.bg-primary {
+    background-color: #339CCB;
+  }
+  
+  .text-secondary {
+    color: #53BD70;
+  }
+  .secondary {
+    color: #53BD70;
+  }
+  span.block.h-2.w-2.rounded-full.bg-success-400 {
+    background: blue !important;
+  }
+  span.block.h-2.w-2.rounded-full.bg-primary-500 {
+    background: green !important;
+  }
